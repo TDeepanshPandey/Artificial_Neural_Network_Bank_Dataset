@@ -6,6 +6,8 @@ Course Name is *"Deep Learning A-Z™: Hands-On Artificial Neural Networks"*
 
 The link of the course is *https://www.udemy.com/deeplearning/*
 
+My Certificate URL is *https://www.udemy.com/certificate/UC-3NCHVRX9*
+
 **Screenshot**
 ![alt_text](https://github.com/TDeepanshPandey/Artificial_Neural_Network_Bank_Dataset/blob/master/ANN_output.jpg)
 
